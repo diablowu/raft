@@ -1,4 +1,4 @@
-module raft
+module github.com/diablowu/raft
 
 go 1.12
 

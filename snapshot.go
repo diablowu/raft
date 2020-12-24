@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/golang/protobuf/proto"
-	"raft/protobuf"
+	"github.com/diablowu/raft/protobuf"
 )
 
 // Snapshot represents an in-memory representation of the current state of the system.

@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"raft/protobuf"
+	"github.com/diablowu/raft/protobuf"
 )
 
 //------------------------------------------------------------------------------
